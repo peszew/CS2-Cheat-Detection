@@ -92,7 +92,7 @@ CS2 Demo Files (.dem)
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CS2-Cheat-Detection.git
+   git clone https://github.com/peszew/CS2-Cheat-Detection.git
    cd CS2-Cheat-Detection
    ```
 
